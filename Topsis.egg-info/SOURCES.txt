@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+Topsis.egg-info/PKG-INFO
+Topsis.egg-info/SOURCES.txt
+Topsis.egg-info/dependency_links.txt
+Topsis.egg-info/top_level.txt

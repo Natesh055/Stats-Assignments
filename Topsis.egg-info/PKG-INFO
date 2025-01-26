@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: Topsis
+Version: 0.1
+Summary: A Python package implementing TOPSIS technique.
+Home-page: https://github.com/Natesh055/Statistics-Assignments
+Author: Natesh Subgh Pundir
+Author-email: npundir_be2@thapa.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+#Topsis Package
+A Python package to implement topsis on a given dataset.
+##Usage
+Following query on terminal will provide you the best and worst decisions for the dataset.
+```
+python topsis.py dataset_sample.xsc 1,1,1,1 0,1,1,0
+```
+## For Macbooks
+python3 topsis.py dataset_sample.xsc 1,1,1,1 0,1,1,0
